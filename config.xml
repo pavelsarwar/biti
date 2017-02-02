@@ -3,13 +3,13 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.jamalpur.sadar"
+        id        = "com.biti.np"
 		version   = "1.0.0">
 
-    <name>জামালপুর সদর</name>
+    <name>Biti Suppliers and Printing Press Pvt. Ltd. </name>
 
     <description>
-		জামালপুর সদর
+		Biti Suppliers and Printing Press Pvt. Ltd. 
 
 
     </description>
